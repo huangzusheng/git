@@ -1,6 +1,6 @@
-相关资源介绍
-1、尚硅谷GitHub教程(新版git已上传，推荐观看)
+鐩稿叧璧勬簮浠嬬粛
+1銆佸皻纭呰胺GitHub鏁欑▼(鏂扮増git宸蹭笂浼狅紝鎺ㄨ崘瑙傜湅)
 https://www.bilibili.com/video/BV1pW411A7a5
 
-2、廖雪峰git教程
+2銆佸粬闆嘲git鏁欑▼
 https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000
